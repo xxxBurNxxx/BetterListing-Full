@@ -12,13 +12,13 @@ Segue abaixo alguns pontos importantes:
 Softwares necessários:
 -------------
 *	Distribuição Linux - Debian, Ubuntu, Raspbian e outras.
-*	BetterListing - https://gitlab.com/devCoster/BetterListing/
+*	BetterListing - [Oficial](https://gitlab.com/devCoster/BetterListing/) ou [BetterListing-Full](https://github.com/xxxBurNxxx/BetterListing-Full/raw/main/betterlisting.zip)
 *	nginx
 
 # Sumario
 
 1. [Instalando e configurando o nginx](#1)
-2. [Baixando o BetterListing](#2)
+2. [Baixando o BetterListing-Full](#2)
 3. [Testando o serviço](#3)
 
 -----------------------------------------------------------------------------------------------------------------------------------
@@ -68,16 +68,19 @@ Feito todas as alterações no arquivo, você estiver usando o Nano pode pressio
 
 ***Irei deixar no diretório desse arquivo um arquivo completo de exemplo.
 
-[arquivo de exemplo](https://github.com/xxxBurNxxx/h5ai-nginx/blob/main/arquivo-default)
+[arquivo de exemplo](https://github.com/xxxBurNxxx/BetterListing-Full/blob/main/arquivo-default)
 
-## 2. Baixando o BetterListing <a name="2"></a>
+## 2. Baixando o BetterListing-Full <a name="2"></a>
 
-Para configurar o BetterListing, você pode baixar os arquivos oficiais ou baixar os que eu deixei no diretório desse artigo [Clicando aqui](https://github.com/xxxBurNxxx/), extrair os arquivos e deixar a pasta **betterlisting** na raiz da pasta do seu site.
+Para configurar o BetterListing, você pode baixar os arquivos oficiais ou baixar os que eu deixei no diretório desse artigo [Clicando aqui](https://github.com/xxxBurNxxx/BetterListing-Full/raw/main/betterlisting.zip), extrair os arquivos e deixar a pasta **betterlisting** na raiz da pasta do seu site.
 
-Basicamente deve ficar com uma estrutura de pasta conforme abaixo:
+***Por padrão o BetterListing não exebe icones para mostrar a extensão do arquivo, o BetterListing-Full que eu disponibilizei ja esta com o pack de icones configurado. Caso você queira baixar baixar a versão oficial e configurar os icones manualmente, você pode baixar o icones [Clicando aqui](https://github.com/xxxBurNxxx/BetterListing-Full/raw/main/icons.zip) e colocar dentro da pasta **betterlisting**.
+
+Basicamente a estrutura de pastas deve ficar conforme abaixo:
 
 	site-exemplo
 		     ┖-- betterlisting
+		             ┖-- icons
 		     ┖-- Documentos
 		     ┖-- Fotos
 
