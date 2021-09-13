@@ -12,7 +12,7 @@ Segue abaixo alguns pontos importantes:
 Softwares necessários:
 -------------
 *	Distribuição Linux - Debian, Ubuntu, Raspbian e outras.
-*	BetterListing - [Oficial](https://gitlab.com/devCoster/BetterListing/) ou [BetterListing-Full](https://github.com/xxxBurNxxx/BetterListing-Full/raw/main/betterlisting.zip)
+*	BetterListing - [Oficial](https://gitlab.com/devCoster/BetterListing/-/archive/master/BetterListing-master.zip) ou [BetterListing-Full](https://github.com/xxxBurNxxx/BetterListing-Full/raw/main/betterlisting.zip)
 *	nginx
 
 # Sumario
