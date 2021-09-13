@@ -1,3 +1,4 @@
+
 BetterListing-Full
 -------------
 
@@ -74,7 +75,7 @@ Feito todas as alterações no arquivo, você estiver usando o Nano pode pressio
 
 Para configurar o BetterListing, você pode baixar os arquivos oficiais ou baixar os que eu deixei no diretório desse artigo [Clicando aqui](https://github.com/xxxBurNxxx/BetterListing-Full/raw/main/betterlisting.zip), extrair os arquivos e deixar a pasta **betterlisting** na raiz da pasta do seu site.
 
-***Por padrão o BetterListing não exebe icones para mostrar a extensão do arquivo, o BetterListing-Full que eu disponibilizei ja esta com o pack de icones configurado. Caso você queira baixar baixar a versão oficial e configurar os icones manualmente, você pode baixar o icones [Clicando aqui](https://github.com/xxxBurNxxx/BetterListing-Full/raw/main/icons.zip) e colocar dentro da pasta **betterlisting**.
+***Por padrão o BetterListing não exibe ícones para mostrar a extensão do arquivo, o BetterListing-Full que eu disponibilizei já esta com o pack de ícones configurado. Caso você queira baixar baixar a versão oficial e configurar os ícones manualmente, você pode baixar o ícones [Clicando aqui](https://github.com/xxxBurNxxx/BetterListing-Full/raw/main/icons.zip) e colocar dentro da pasta **betterlisting**.
 
 Basicamente a estrutura de pastas deve ficar conforme abaixo:
 
